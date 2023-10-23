@@ -1,0 +1,13 @@
+{
+    "CoreName": "Panda3DS",
+    "CoreSubName": "Nightly",
+    "SystemNames": "Nintendo 3DS",
+    "Versioning": "Github",
+    "VersioningURL": "https://api.github.com/repos/wheremyfoodat/Panda3DS/branches/master",
+    "Systems": {
+        "Android x64": "https://nightly.link/wheremyfoodat/Panda3DS/workflows/Hydra_Build/master/Android%20core.zip",
+        "Windows x64": "https://nightly.link/wheremyfoodat/Panda3DS/workflows/Hydra_Build/master/Windows%20core.zip",
+        "Linux x64": "https://nightly.link/wheremyfoodat/Panda3DS/workflows/Hydra_Build/master/Linux%20core.zip",
+        "MacOS x64": "https://nightly.link/wheremyfoodat/Panda3DS/workflows/Hydra_Build/master/MacOS%20core.zip"
+    }
+}
