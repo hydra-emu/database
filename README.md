@@ -13,7 +13,7 @@ Define these fields as necessary:
 
 `VersioningURL`: If using `Github` as `Versioning`, set this to `https://api.github.com/repos/<author>/<repo>/branches/master` (by replacing `<author>` and `<repo>` accordingly).    
 
-`Systems`: A map of systems to their core download links in the form of `"<System> <Architecture>:"<URL>"`. Cores must be saved either in `.zip` or their native shared library format (`.dll/.dylib/.so`).    
+`Downloads`: A map of systems to their core download links in the form of `"<System> <Architecture>:"<URL>"`. Cores must be saved either in `.zip` or their native shared library format (`.dll/.dylib/.so`).    
 
 Available systems: `Windows` `MacOS` `Linux` `Android` `iOS`    
 Available architectures: `x64`, `x86`, `arm64`, `arm32`
