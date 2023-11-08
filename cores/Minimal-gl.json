@@ -1,0 +1,10 @@
+{
+    "CoreName": "Minimal",
+    "CoreSubName": "OpenGL",
+    "SystemNames": "Debug",
+    "Versioning": "Github",
+    "VersioningURL": "",
+    "Downloads": {
+        "Linux x64": ""
+    }
+}
