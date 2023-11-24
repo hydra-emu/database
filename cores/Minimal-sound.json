@@ -3,8 +3,10 @@
     "CoreSubName": "Sound",
     "SystemNames": "Debug",
     "Versioning": "Github",
-    "VersioningURL": "",
+    "VersioningURL": "https://api.github.com/repos/hydra-emu/minimal_sound/branches/master",
     "Downloads": {
-        "Linux x64": ""
+        "Windows x64": "https://nightly.link/hydra-emu/minimal_sound/workflows/Windows/master/minimal_sound.zip",
+        "MacOS x64": "https://nightly.link/hydra-emu/minimal_sound/workflows/MacOS/master/minimal_sound.zip",
+        "Linux x64": "https://nightly.link/hydra-emu/minimal_sound/workflows/Linux/master/minimal_sound.zip"
     }
 }
